@@ -1,0 +1,27 @@
+.form {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.form input {
+  height: 40px;
+  padding: 0 20px;
+  font-size: 20px;
+  border: 1px solid ¨#ccc;
+  min-width: 80%;
+  text-align: center;
+}
+
+.form button {
+  border: none;
+  height: 40px;
+  width: 40px;
+  background: rebeccapurple;
+  color: #ccc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
